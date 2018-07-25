@@ -1,0 +1,25 @@
+/* DEBUGGING RULE ONLY */
+
+*{
+    outline: 1px solid red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.main-page {
+    height: 100vh;
+}
+
+.main-page header {
+    height: 10%;
+}
+
+.main-page section {
+    height: 80%;
+}
+
+.main-page footer {
+    height: 10%;
+}
